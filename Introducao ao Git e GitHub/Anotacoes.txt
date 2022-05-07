@@ -1,1 +1,25 @@
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+São duas tecnologias complementares porém diferentes.
+
+Comando dir = listar (no Linux é ls)
+
+cd = change directory (mudar pasta)
+
+cd .. = volta um na navegação
+
+cls = clear screen
+
+tecla tab tem a função de autocompletar
+
+mkdir = criar pasta
+
+del = deletar arquivos
+
+rmdir = deletar pasta
+
+ls = listar (ls -a lista pastas ocultas)
+
+A sigla SHA significa Secure Hash Algorithm, é um conjunto de funções hash criptográficas projetadas pela NSA (National Secuty Agency dos EUA).
+
+A encriptação gera conjunto de caracteres identificador de 40 dígitos. (sha1)
